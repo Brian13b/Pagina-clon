@@ -24,9 +24,6 @@ Demostrar habilidades en:
 - Estructura semántica de HTML
 - Organización modular de CSS
 
-## ✒️ Autor
-[Tunombre](https://github.com/tunombredeusuario)
-
 ---
 
 ⚠️ **Nota**: Este proyecto fue creado como trabajo práctico académico. Todos los derechos del diseño original pertenecen a su creador en Behance.
